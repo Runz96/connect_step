@@ -44,6 +44,10 @@
 * 2017 - Mobile sensing at the service of mental well-being: a large-scale longitudinal study - [[Paper](https://dl.acm.org/doi/abs/10.1145/3038912.3052618?casa_token=srwlqTZVymMAAAAA:eI3TLoMt0kq7wkaVaHNxk-yG-A0lNGl_d5U3e6gVKcQePn1f0qZzHtWfItBc97PixpJ2kCHCOrNC)]
 * 2021 - Identifying mobile sensing indicators of stress-resilience - [[Paper](https://dl.acm.org/doi/abs/10.1145/3463528)]
 * 2014 - Detection of behavior change in people with depression - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:roLk4NBRz8UC)]
+* 2018 - Mental health sensing using mobile phones - [[Paper](https://www.cs.dartmouth.edu/~campbell/dr_rui_wang_thesis-2018.pdf)]
+* 2018 - Tracking depression dynamics in college students using mobile phone and wearable sensing - [[Paper](https://dl.acm.org/doi/abs/10.1145/3191775?casa_token=wB05z7-eD4UAAAAA:IoHLGWuB5cUocFtq7Le7WeHr00BXxreMT5og8NBbS7H9ycwXZv0dnNzsdA3ut0DElUiwsTvUTfGk)]
+* 2014 - StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones - [[Paper](https://dl.acm.org/doi/abs/10.1145/2632048.2632054?casa_token=ZiGnQMgLJ6IAAAAA:fkpAB7xZcrWb2EUKlO6jZDKGsqX8rnWufWi4Ujpent_1OyFN8sKWXpZR8v-RC0fQizuD0U-qj0vY)]
+
 
 ## Rehabilitation
 * 2022 - Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421007941)]
