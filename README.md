@@ -55,6 +55,7 @@
 * 2020 - Predicting Subjective Measures of Social Anxiety from Sparsely Collected Mobile Sensor Data - [[Paper](https://dl.acm.org/doi/abs/10.1145/3411823?casa_token=UQ5LHROTsFwAAAAA:xos4yLdPVKjfwk3avL-thD8CnKil3kh8BB8SoTHFBdaMtpns0zmVjGWn_idcd18AE5XNSjUOJp3z)]
 
 ## Stroke Rehabilitation
+* 2020 - Enabling precision rehabilitation interventions using wearable sensors and machine learning to track motor recovery - [[Paper](https://www.nature.com/articles/s41746-020-00328-w)]
 * 2022 - Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421007941)]
 * 2020 - Applications of smart textiles in post-stroke rehabilitation - [[Paper](https://www.mdpi.com/1424-8220/20/8/2370)]
 * 2019 - Rehab-net: Deep learning framework for arm movement classification using wearable sensors for stroke rehabilitation - [[Paper](https://ieeexplore.ieee.org/abstract/document/8643399/?casa_token=W92VWC6RCQgAAAAA:1yt2A4LVva5sbQJaaxDmwkO9KFxuBkTUZMoBLAIZX9ma-2pTbKGcY9DN96TWGO6BvQlOKYon1g)]
