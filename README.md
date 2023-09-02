@@ -37,6 +37,8 @@
 * 2019 - Mobile phone and wearable sensor-based mHealth approaches for psychiatric disorders and symptoms: systematic review - [[Paper](https://mental.jmir.org/2019/2/e9819)]
 * 2023 - Wearable artificial intelligence for anxiety and depression: Scoping review - [[Paper](https://www.jmir.org/2023/1/e42672/)]
 * 2022 - Predicting depression in adolescents using mobile and wearable sensors: Multimodal machine learning–based exploratory study - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:YFjsv_pBGBYC)]
+* 2021 - Leveraging collaborative-filtering for personalized behavior modeling: a case study of depression detection among college students - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:_Qo2XoVZTnwC)]
+* 2021 - Detecting depression and predicting its onset using longitudinal symptoms captured by passive sensing: a machine learning approach with robust feature selection - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:mB3voiENLucC)]
 
 ## Rehabilitation
 * 2022 - Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421007941)]
