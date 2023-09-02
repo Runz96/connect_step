@@ -17,7 +17,6 @@
 * 2019 - Towards reliable, automated general movement assessment for perinatal stroke screening in infants using wearable accelerometers - [[Paper](https://dl.acm.org/doi/abs/10.1145/3314399?casa_token=Qu17lfgmJN4AAAAA:K4wM__hnb6t38xnyTiLovLI0FwntDl7RGQekbntNBnjW-V3YbUDtTqlrzbFgq7gtd1Z-Hh9WXePe)]
 * 2019 - Preliminary clinical application of textile insole sensor for hemiparetic gait pattern analysis - [[Paper](https://www.mdpi.com/1424-8220/19/18/3950)]
 * 2020 - Machine learning for brain stroke: a review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1052305720305802)]
-* 2019 - A survey of healthcare Internet of Things (HIoT): A clinical perspective - [[Paper](https://ieeexplore.ieee.org/abstract/document/8863483/?casa_token=oaeah2FH0EEAAAAA:V8ecNQi0_yZBwg88G2VoQA4piLDt4N2ljLNqIqkSr11pZhH7DkBe1RdjEg646ESdZaN27pqx4w)]
 * 2022 - Early Detection of Stroke-Initiated Behavioral Disorder - [[Paper](https://www.hindawi.com/journals/bn/2022/7725597/)]
 * 2019 - Skin sensors are the future of health care - [[Paper]()]
 * 2022 - Association of accelerometer-measured sedentary time and physical activity with risk of stroke among US adults - [[Paper](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2792959)]
@@ -31,6 +30,7 @@
 * 2021 - Trends and challenges of wearable multimodal technologies for stroke risk prediction - [[Paper](https://www.mdpi.com/1424-8220/21/2/460)]
 * 2016 - Stroke prediction context-aware health care system - [[Paper](https://ieeexplore.ieee.org/abstract/document/7545809/?casa_token=mSHynapullAAAAAA:_Z1TGgIy43Kgx2cl1ry7e5gW0qkbMw72747RZV2HOCmi5mMMvpDwISsttPYmjHUzAVHOLdOXZw)]
 * 2018 - Data analytics of a wearable device for heat stroke detection - [[Paper](https://www.mdpi.com/1424-8220/18/12/4347)]
+* 20 - - [[Paper]()]
 
 ## Mental Health Analysis
 * 2018 - Tracking depression dynamics in college students using mobile phone and wearable sensing - [[Paper](https://dl.acm.org/doi/abs/10.1145/3191775?casa_token=CQuNXxfWSpgAAAAA:wBJXdD1RyLH0wj7miQj6Lqyowukd1_nkDTYbkUw8lRgLceW7K82OdVLCHyHSxmnXlWAgHSLAwTVG)]
@@ -54,7 +54,7 @@
 * 2019 - A survey on big data-driven digital phenotyping of mental health - [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305244?casa_token=NHcUJpFm3xMAAAAA:hVbzrfhRgm6LjfNSS_0bURJqg93Bcox0PAIfNwvkMeb2pQDJNKiepmN8CxfjVMQPxu2IbvzaUg)]
 * 2020 - Predicting Subjective Measures of Social Anxiety from Sparsely Collected Mobile Sensor Data - [[Paper](https://dl.acm.org/doi/abs/10.1145/3411823?casa_token=UQ5LHROTsFwAAAAA:xos4yLdPVKjfwk3avL-thD8CnKil3kh8BB8SoTHFBdaMtpns0zmVjGWn_idcd18AE5XNSjUOJp3z)]
 
-## Rehabilitation
+## Stroke Rehabilitation
 * 2022 - Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421007941)]
 * 2020 - Applications of smart textiles in post-stroke rehabilitation - [[Paper](https://www.mdpi.com/1424-8220/20/8/2370)]
 * 2019 - Rehab-net: Deep learning framework for arm movement classification using wearable sensors for stroke rehabilitation - [[Paper](https://ieeexplore.ieee.org/abstract/document/8643399/?casa_token=W92VWC6RCQgAAAAA:1yt2A4LVva5sbQJaaxDmwkO9KFxuBkTUZMoBLAIZX9ma-2pTbKGcY9DN96TWGO6BvQlOKYon1g)]
@@ -69,6 +69,6 @@
 * 2021 - Digital health in stroke medicine: what are the opportunities for stroke patients? - [[Paper](https://journals.lww.com/co-neurology/Fulltext/2021/02000/Digital_health_in_stroke_medicine__what_are_the.7.aspx?casa_token=V6ajz-Mak2kAAAAA:iveWYs6HQVoFzGfPZcpkXSSt5f-kXG9v_nFHaxCXiOhLLQOb70ms7V03kdNezdPEVhQ90PwbbVcFLBwP6yWcq3E)]
 * 2019 - Wearable technology in stroke rehabilitation: towards improved diagnosis and treatment of upper-limb motor impairment - [[Paper](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-019-0612-y)]
 * 2022 - Sensing apps and public data sets for digital phenotyping of mental health: systematic review- [[Paper](https://www.jmir.org/2022/2/e28735/)]
-
+* 2019 - A survey of healthcare Internet of Things (HIoT): A clinical perspective - [[Paper](https://ieeexplore.ieee.org/abstract/document/8863483/?casa_token=oaeah2FH0EEAAAAA:V8ecNQi0_yZBwg88G2VoQA4piLDt4N2ljLNqIqkSr11pZhH7DkBe1RdjEg646ESdZaN27pqx4w)]
 
 
