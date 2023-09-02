@@ -39,6 +39,11 @@
 * 2022 - Predicting depression in adolescents using mobile and wearable sensors: Multimodal machine learning–based exploratory study - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:YFjsv_pBGBYC)]
 * 2021 - Leveraging collaborative-filtering for personalized behavior modeling: a case study of depression detection among college students - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:_Qo2XoVZTnwC)]
 * 2021 - Detecting depression and predicting its onset using longitudinal symptoms captured by passive sensing: a machine learning approach with robust feature selection - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:mB3voiENLucC)]
+* 2022 - First-gen lens: Assessing mental health of first-generation students across their first year at college using mobile sensing - [[Paper](https://dl.acm.org/doi/abs/10.1145/3543194)]
+* 2011 - Passive and in-situ assessment of mental and physical well-being using mobile sensors - [[Paper](https://dl.acm.org/doi/abs/10.1145/2030112.2030164?casa_token=FmWdDI1U7D0AAAAA:aRcKXRBTkmAd5zXVQYvyEG3kyrTnnCwnmCDuZ9LxrXxvIB0v4rBzX8dknuILzLH2HqLnNJ07NaCf)]
+* 2017 - Mobile sensing at the service of mental well-being: a large-scale longitudinal study - [[Paper](https://dl.acm.org/doi/abs/10.1145/3038912.3052618?casa_token=srwlqTZVymMAAAAA:eI3TLoMt0kq7wkaVaHNxk-yG-A0lNGl_d5U3e6gVKcQePn1f0qZzHtWfItBc97PixpJ2kCHCOrNC)]
+* 2021 - Identifying mobile sensing indicators of stress-resilience - [[Paper](https://dl.acm.org/doi/abs/10.1145/3463528)]
+* 2014 - Detection of behavior change in people with depression - [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O0lONMkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=O0lONMkAAAAJ:roLk4NBRz8UC)]
 
 ## Rehabilitation
 * 2022 - Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421007941)]
