@@ -47,7 +47,12 @@
 * 2018 - Mental health sensing using mobile phones - [[Paper](https://www.cs.dartmouth.edu/~campbell/dr_rui_wang_thesis-2018.pdf)]
 * 2018 - Tracking depression dynamics in college students using mobile phone and wearable sensing - [[Paper](https://dl.acm.org/doi/abs/10.1145/3191775?casa_token=wB05z7-eD4UAAAAA:IoHLGWuB5cUocFtq7Le7WeHr00BXxreMT5og8NBbS7H9ycwXZv0dnNzsdA3ut0DElUiwsTvUTfGk)]
 * 2014 - StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones - [[Paper](https://dl.acm.org/doi/abs/10.1145/2632048.2632054?casa_token=ZiGnQMgLJ6IAAAAA:fkpAB7xZcrWb2EUKlO6jZDKGsqX8rnWufWi4Ujpent_1OyFN8sKWXpZR8v-RC0fQizuD0U-qj0vY)]
-
+* 2016 - CrossCheck: toward passive sensing and detection of mental health changes in people with schizophrenia - [[Paper](https://dl.acm.org/doi/abs/10.1145/2971648.2971740?casa_token=mdjwezF0hsoAAAAA:XU02Q1-S_enLLHzianqBQCNUCfrg5rfvVHHE4nwFa6e2xvFZ-DisLgrfQDstwBNM8jTHgo5sKgmE)]
+* 2019 - Personalizing mental health: A feasibility study of a mobile behavioral activation tool for depressed patients - [[Paper](https://dl.acm.org/doi/abs/10.1145/3329189.3329214?casa_token=KLMWyWtjw2QAAAAA:3Wz-UpecRUpAx3c9p69_-Oxqh4T2R0lF52Ha7DDgbnK8yM2YEgSyx4mPIBR_DLKXo4tGAYoklmI4)]
+* 2021 - Current practices in mental health sensing - [[Paper](https://dl.acm.org/doi/abs/10.1145/3481829?casa_token=4fXVSUQYsPsAAAAA:WZjX84w1caCcyWcvyoWjfIE5v-DJ2R7hqKnGhj9HVXfJ_UEZ19qfO2_6HfTMc42pc2DSzgX_Hw7N)]
+* 2022 - Sensing apps and public data sets for digital phenotyping of mental health: systematic review- [[Paper](https://www.jmir.org/2022/2/e28735/)]
+* 2019 - A survey on big data-driven digital phenotyping of mental health - [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305244?casa_token=NHcUJpFm3xMAAAAA:hVbzrfhRgm6LjfNSS_0bURJqg93Bcox0PAIfNwvkMeb2pQDJNKiepmN8CxfjVMQPxu2IbvzaUg)]
+* 2020 - Predicting Subjective Measures of Social Anxiety from Sparsely Collected Mobile Sensor Data - [[Paper](https://dl.acm.org/doi/abs/10.1145/3411823?casa_token=UQ5LHROTsFwAAAAA:xos4yLdPVKjfwk3avL-thD8CnKil3kh8BB8SoTHFBdaMtpns0zmVjGWn_idcd18AE5XNSjUOJp3z)]
 
 ## Rehabilitation
 * 2022 - Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421007941)]
@@ -63,6 +68,7 @@
 * 2019 - A survey of healthcare Internet of Things (HIoT): A clinical perspective - [[Paper](https://ieeexplore.ieee.org/abstract/document/8863483/?casa_token=oaeah2FH0EEAAAAA:V8ecNQi0_yZBwg88G2VoQA4piLDt4N2ljLNqIqkSr11pZhH7DkBe1RdjEg646ESdZaN27pqx4w)]
 * 2021 - Digital health in stroke medicine: what are the opportunities for stroke patients? - [[Paper](https://journals.lww.com/co-neurology/Fulltext/2021/02000/Digital_health_in_stroke_medicine__what_are_the.7.aspx?casa_token=V6ajz-Mak2kAAAAA:iveWYs6HQVoFzGfPZcpkXSSt5f-kXG9v_nFHaxCXiOhLLQOb70ms7V03kdNezdPEVhQ90PwbbVcFLBwP6yWcq3E)]
 * 2019 - Wearable technology in stroke rehabilitation: towards improved diagnosis and treatment of upper-limb motor impairment - [[Paper](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-019-0612-y)]
+* 2022 - Sensing apps and public data sets for digital phenotyping of mental health: systematic review- [[Paper](https://www.jmir.org/2022/2/e28735/)]
 
 
 
