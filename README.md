@@ -2,6 +2,7 @@
 
 ## Studies by categories
 
+<<<<<<< HEAD
 ## End2End Digital Health Systems
 * 2022 - Real-time alerting system for COVID-19 and other stress events using wearable data - [[Paper](https://www.nature.com/articles/s41591-021-01593-2)]
 * 2021 - A scalable, secure, and interoperable platform for deep data-driven health management - [[Paper](https://www.nature.com/articles/s41467-021-26040-1)]
@@ -10,6 +11,9 @@
 * 2020 - Pre-symptomatic detection of COVID-19 from smartwatch data - [[Paper](https://www.nature.com/articles/s41551-020-00640-6)]
 
 ## Stroke Evaluation
+=======
+## Stroke Detection
+>>>>>>> 21455dab8ac10c0080d67e8b56c501d1c359e89e
 * 2021 - Digital health in stroke medicine: what are the opportunities for stroke patients? - [[Paper](https://journals.lww.com/co-neurology/Fulltext/2021/02000/Digital_health_in_stroke_medicine__what_are_the.7.aspx?casa_token=V6ajz-Mak2kAAAAA:iveWYs6HQVoFzGfPZcpkXSSt5f-kXG9v_nFHaxCXiOhLLQOb70ms7V03kdNezdPEVhQ90PwbbVcFLBwP6yWcq3E)]
 * 2022 - A mixed-methods feasibility study of a new digital health support package for people after stroke: the Recovery-focused Community support to Avoid readmissions and improve Participation after Stroke (ReCAPS) intervention - [[Paper](https://link.springer.com/article/10.1186/s40814-022-01197-8)]
 * 2023 - EEG classification of traumatic brain injury and stroke from a nonspecific population using neural networks - [[Paper](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000282)]
