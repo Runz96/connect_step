@@ -62,6 +62,10 @@
 * 2019 - Wearable technology in stroke rehabilitation: towards improved diagnosis and treatment of upper-limb motor impairment - [[Paper](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-019-0612-y)]
 * 2020 - Sensors and systems for physical rehabilitation and health monitoring—A review - [[Paper](https://www.mdpi.com/1424-8220/20/15/4063)]
 * 2019 - Remote monitoring of stroke patients' rehabilitation using wearable accelerometers - [[Paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347731?casa_token=33zQuRBp71oAAAAA:Psy7hvRbxsH0ibJFPh5i_rENKSvy7a3S4WhrkHl8wE2cF7tBQX29gj2JSuO6C5AhNGXCEVYA2lMA)]
+* 2017 - Wearable sensing for rehabilitation after stroke: Bimanual jerk asymmetry encodes unique information about the variability of upper extremity recovery - [[Paper](https://ieeexplore.ieee.org/abstract/document/8009477/authors#authors)]
+* 2022 - Wearable Sensors for Stroke Rehabilitation - [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-08995-4_21)]
+* 2019 - Rehab-Net: Deep Learning Framework for Arm Movement Classification Using Wearable Sensors for Stroke Rehabilitation - [[Paper](https://ieeexplore.ieee.org/abstract/document/8643399?casa_token=kvqyoCim5rwAAAAA:bswNoAt40k_3hX6B1vYuuE6y-HR4pJJhgjumb4mFk0s1-duAyxTm0CozeBBfL-h_jqEajDciZQ)]
+* 2020 - Towards data-driven stroke rehabilitation via wearable sensors and deep learning - [[Paper](http://proceedings.mlr.press/v126/kaku20a.html)]
 
 ## Blood Pressure Management
 
@@ -71,5 +75,5 @@
 * 2019 - Wearable technology in stroke rehabilitation: towards improved diagnosis and treatment of upper-limb motor impairment - [[Paper](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-019-0612-y)]
 * 2022 - Sensing apps and public data sets for digital phenotyping of mental health: systematic review- [[Paper](https://www.jmir.org/2022/2/e28735/)]
 * 2019 - A survey of healthcare Internet of Things (HIoT): A clinical perspective - [[Paper](https://ieeexplore.ieee.org/abstract/document/8863483/?casa_token=oaeah2FH0EEAAAAA:V8ecNQi0_yZBwg88G2VoQA4piLDt4N2ljLNqIqkSr11pZhH7DkBe1RdjEg646ESdZaN27pqx4w)]
-
+* 2022 - A Review of Recent Advances in Vital Signals Monitoring of Sports and Health via Flexible Wearable Sensors - [[Papwe](https://www.mdpi.com/1424-8220/22/20/7784)]
 
