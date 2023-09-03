@@ -2,6 +2,13 @@
 
 ## Studies by categories
 
+## End2End Digital Health Systems
+* 2022 - Real-time alerting system for COVID-19 and other stress events using wearable data - [[Paper](https://www.nature.com/articles/s41591-021-01593-2)]
+* 2021 - A scalable, secure, and interoperable platform for deep data-driven health management - [[Paper](https://www.nature.com/articles/s41467-021-26040-1)]
+* 2021 - Five-year pediatric use of a digital wearable fitness device: lessons from a pilot case study - [[Paper](https://pubmed.ncbi.nlm.nih.gov/34350390/)]
+* 2021 - Wearable sensors enable personalized predictions of clinical laboratory measurements - [[Paper](https://pubmed.ncbi.nlm.nih.gov/34031607/)]
+* 2020 - Pre-symptomatic detection of COVID-19 from smartwatch data - [[Paper](https://www.nature.com/articles/s41551-020-00640-6)]
+
 ## Stroke Evaluation
 * 2021 - Digital health in stroke medicine: what are the opportunities for stroke patients? - [[Paper](https://journals.lww.com/co-neurology/Fulltext/2021/02000/Digital_health_in_stroke_medicine__what_are_the.7.aspx?casa_token=V6ajz-Mak2kAAAAA:iveWYs6HQVoFzGfPZcpkXSSt5f-kXG9v_nFHaxCXiOhLLQOb70ms7V03kdNezdPEVhQ90PwbbVcFLBwP6yWcq3E)]
 * 2022 - A mixed-methods feasibility study of a new digital health support package for people after stroke: the Recovery-focused Community support to Avoid readmissions and improve Participation after Stroke (ReCAPS) intervention - [[Paper](https://link.springer.com/article/10.1186/s40814-022-01197-8)]
@@ -76,4 +83,5 @@
 * 2022 - Sensing apps and public data sets for digital phenotyping of mental health: systematic review- [[Paper](https://www.jmir.org/2022/2/e28735/)]
 * 2019 - A survey of healthcare Internet of Things (HIoT): A clinical perspective - [[Paper](https://ieeexplore.ieee.org/abstract/document/8863483/?casa_token=oaeah2FH0EEAAAAA:V8ecNQi0_yZBwg88G2VoQA4piLDt4N2ljLNqIqkSr11pZhH7DkBe1RdjEg646ESdZaN27pqx4w)]
 * 2022 - A Review of Recent Advances in Vital Signals Monitoring of Sports and Health via Flexible Wearable Sensors - [[Papwe](https://www.mdpi.com/1424-8220/22/20/7784)]
-
+* 2019 - Big data in healthcare: management, analysis and future prospects - [[Paper](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0)]
+* 2019 - Big data and health - [[Paper]()]
