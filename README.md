@@ -1,8 +1,5 @@
 # Literature References on Stroke, Digital health, Blood Pressure Management, Depression, Rehabilitation
 
-## Studies by categories
-
-<<<<<<< HEAD
 ## End2End Digital Health Systems
 * 2022 - Real-time alerting system for COVID-19 and other stress events using wearable data - [[Paper](https://www.nature.com/articles/s41591-021-01593-2)]
 * 2021 - A scalable, secure, and interoperable platform for deep data-driven health management - [[Paper](https://www.nature.com/articles/s41467-021-26040-1)]
