@@ -6,8 +6,9 @@
 * 2021 - Five-year pediatric use of a digital wearable fitness device: lessons from a pilot case study - [[Paper](https://pubmed.ncbi.nlm.nih.gov/34350390/)]
 * 2021 - Wearable sensors enable personalized predictions of clinical laboratory measurements - [[Paper](https://pubmed.ncbi.nlm.nih.gov/34031607/)]
 * 2020 - Pre-symptomatic detection of COVID-19 from smartwatch data - [[Paper](https://www.nature.com/articles/s41551-020-00640-6)]
-
-
+* 2019 - A longitudinal big data approach for precision health - [[Paper](https://www.nature.com/articles/s41591-019-0414-6)]
+* 2021 - Digital Twin for Intelligent Context-Aware IoT Healthcare Systems - [[Paper](https://ieeexplore.ieee.org/abstract/document/9320532/authors#authors)]
+* 20 - 
 ## Stroke Detection
 
 * 2021 - Digital health in stroke medicine: what are the opportunities for stroke patients? - [[Paper](https://journals.lww.com/co-neurology/Fulltext/2021/02000/Digital_health_in_stroke_medicine__what_are_the.7.aspx?casa_token=V6ajz-Mak2kAAAAA:iveWYs6HQVoFzGfPZcpkXSSt5f-kXG9v_nFHaxCXiOhLLQOb70ms7V03kdNezdPEVhQ90PwbbVcFLBwP6yWcq3E)]
@@ -85,3 +86,5 @@
 * 2022 - A Review of Recent Advances in Vital Signals Monitoring of Sports and Health via Flexible Wearable Sensors - [[Papwe](https://www.mdpi.com/1424-8220/22/20/7784)]
 * 2019 - Big data in healthcare: management, analysis and future prospects - [[Paper](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0)]
 * 2019 - Big data and health - [[Paper]()]
+* 20 - The emerging clinical role of wearables: factors for successful implementation in healthcare - [[Paper](https://www.nature.com/articles/s41746-021-00418-3)]
+* 20
